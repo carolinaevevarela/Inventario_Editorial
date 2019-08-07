@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  publisher: one
+  press: one
+  purchase_order: 1
+  delivery_order: 1
+  invoice: 1
+
+two:
+  publisher: two
+  press: two
+  purchase_order: 1
+  delivery_order: 1
+  invoice: 1

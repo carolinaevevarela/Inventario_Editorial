@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  publisher: one
+  bookstore: one
+  books: MyString
+  guide_office: 1
+  quantity: 1
+  net_price: 1
+
+two:
+  publisher: two
+  bookstore: two
+  books: MyString
+  guide_office: 1
+  quantity: 1
+  net_price: 1
